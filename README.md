@@ -25,4 +25,5 @@ Code:
 3) kmeans.py output clustring labels and properties of clusters
 
 ##Use K-means clustering
+
 4) nilearn_sts_corr.py compares with DMN
