@@ -1,6 +1,6 @@
 Setup:
 
-We have preprocessed fMRI data (time series corresponding to 64 times 64 times 33 voxels) and a list of changepoints in time
+We have preprocessed fMRI data (time series corresponding to 64 times 64 times 33 voxels) and a list of changepoints.
 
 We want to
 1)create brain networks corresponding to time segment segmented by changepoints
