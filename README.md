@@ -32,12 +32,18 @@ Graph Autoencoders is used.
 
 3) kmeans.py
 
-This program outputs clustring labels and properties of clusters.
+This program outputs clustring labels and properties of clusters (e.g. properties of networks in each cluster).
 
 K-means clustering is used.
 
-4) nilearn_sts_corr.py
+4) nilearn_stv_corr.py
 
 This program allows us to check if the input network has the Default Mode Network structure.
 
 The output shows the correlation between PCC (posterior cingulate cortex) and the regions in whole the brain (seed-to-voxel correlation). One of the typical features of Deault Mode Network is the strong correlation between PCC and mPFC (medial prefrontal cortex).
+
+5) nilearn_sts_corr.py
+
+This program allows us to check if the input network has the Default Mode Network structure.
+
+The output shows the correlation between 8 regions related to Default Mode Network (seed-to-seed correlation). One of the typical features of Deault Mode Network is the correlation between these areas.
