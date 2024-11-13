@@ -3,10 +3,10 @@ Setup:
 We have preprocessed fMRI data (time series corresponding to 64 times 64 times 33 voxels) and a list of changepoints.
 
 We want to
-1)create brain networks corresponding to time segment segmented by changepoints
-2)represent them as points in a latent space
-3)do clustering these on points
-4)compare data with Default Mode Network
+1) create brain networks corresponding to time segment segmented by changepoints
+2) represent them as points in a latent space
+3) do clustering these on points
+4) compare data with Default Mode Network
 
 Code:
 
