@@ -12,7 +12,7 @@ We want to
 3) do clustering on these points
 4) compare brain networks with the Default Mode Network structure
 
-# Code:
+# Codes:
 
 1) GAE_data.py
 
